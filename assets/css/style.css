@@ -1,0 +1,59 @@
+body{
+
+background-image:url("http://www.legionreport.com/wp-content/uploads/2013/10/1080p-NBA.jpg");
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+img{
+    
+    width: 200px;
+    height: 200px;
+    }
+
+    label{
+        margin-left:25em;
+    
+    }
+
+
+    
+    input{
+        margin-left:59em
+    }
+
+    .rounded{
+        margin-left:57em;
+        border:none;
+        background: transparent;
+        color:white
+
+    }
+
+    #gif-input{
+        margin-left:6px
+    }
+
+        .gif-btn{
+         margin-bottom:10px;   
+         background: transparent;
+         border:none;
+         color:white
+        }
+    
+    .gif-btn:hover{
+        border: solid 2px rgb(167, 48, 58);
+        background-color:rgba(42, 81, 190, 0.74);
+        color:white;
+        cursor:pointer;
+        background:transparent
+    }
+
+    .rounded:hover{
+        border: solid 2px rgb(167, 48, 58);
+        background-color:rgba(42, 81, 190, 0.74);
+        color:white;
+        cursor:pointer;
+        background:transparent
+    }
+
